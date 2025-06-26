@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  ASP.vcxproj -> C:\Users\Viktor\source\repos\ASP\x64\Debug\ASP.exe
